@@ -10,4 +10,11 @@ background-color: rgb(18, 102, 144);
    
 }
 
+.box{
+
+    background-image: url(back-img.jpg);
+    padding: 100px;
+    margin: 100px;
+}
+
 
