@@ -15,6 +15,7 @@ document.getElementById("text_id").style.fontWeight="bold";
 document.getElementById("text_id").style.color="blue";
 
 document.getElementById("text_id").style.textDecoration="underline";
+  alert("Hello, World!");
 
 }
 
@@ -23,6 +24,7 @@ if(document.getElementById('boring_radio_button').checked==true)
 {
 
 document.getElementById("text_id").style.fontWeight="normal";
+  alert("Hello, World!");
 
 }
 
